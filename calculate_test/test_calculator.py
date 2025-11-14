@@ -24,4 +24,5 @@ def test_divide():
     assert divide(0, 5) == 0
     assert divide(5, 0) == "Nullával való osztály nem lehetséges"
 
-# python -m pytest ./test_calculator.py
+# python -m pytest ./test_calculator.py 
+#
